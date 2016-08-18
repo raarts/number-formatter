@@ -1,6 +1,6 @@
 {
   "name": "@raarts/number-formatter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easyly format a number",
   "main": "index.js",
   "scripts": {
