@@ -1,5 +1,7 @@
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/raarts/number-formatter.svg?branch=master)](https://travis-ci.org/raarts/number-formatter)
+
 ## Installation
 
   `npm install @raarts/number-formatter`
